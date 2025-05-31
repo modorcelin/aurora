@@ -1,2 +1,2 @@
 # aurora
-art ui
+art ui platform for artist/buyers/financiers
